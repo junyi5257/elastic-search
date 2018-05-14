@@ -23,7 +23,6 @@ import java.util.List;
  * Description:
  *
  * @author goujunyi
- * Mail:goujunyi@corp.netease.com
  * Date:2018-05-08 17:47
  */
 @RunWith(SpringRunner.class)

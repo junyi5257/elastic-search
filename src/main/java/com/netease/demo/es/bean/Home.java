@@ -11,7 +11,6 @@ import org.springframework.data.elasticsearch.core.geo.GeoPoint;
  * Description:
  *
  * @author goujunyi
- * Mail:goujunyi@corp.netease.com
  * Date:2018-05-14 11:31
  */
 @Document(indexName = Home.INDEX_NAME, type = Home.TYPE, shards = 2, replicas = 1)

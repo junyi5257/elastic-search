@@ -18,7 +18,6 @@ import java.net.InetAddress;
  * Description:
  *
  * @author goujunyi
- * Mail:goujunyi@corp.netease.com
  * Date:2018-03-13 17:32
  */
 

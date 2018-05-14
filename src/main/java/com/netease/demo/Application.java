@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Description:
  *
  * @author goujunyi
- * Mail:goujunyi@corp.netease.com
  * Date:2018-03-13 19:25
  */
 @SpringBootApplication
