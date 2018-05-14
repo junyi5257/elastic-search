@@ -1,0 +1,33 @@
+
+https://www.mkyong.com/spring-boot/spring-boot-spring-data-elasticsearch-example/
+
+
+
+项目启动:
+1,ES-6.2.2
+D:\elasticsearch-6.2.2\bin\elasticsearch.bat
+
+2,Kibana
+D:\kibana-6.2.2-windows-x86_64\bin\kibana.bat
+
+
+3,启动查看地址:
+http://127.0.0.1:5601
+
+************KIBABA简单教程*****************************************************************
+    一， 可以查看，目前已经有2个idnex 集合(producthouse 和.kinana)
+
+
+
+
+******************************************************************************************
+
+
+或者启动chrome插件 ,查看效果;
+
+
+
+
+
+
+
