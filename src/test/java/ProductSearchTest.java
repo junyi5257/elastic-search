@@ -23,7 +23,7 @@ import java.util.List;
  * Description:
  *
  * @author goujunyi
- * Date:2018-05-08 17:47
+ *         Date:2018-05-08 17:47
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Application.class)
@@ -71,8 +71,8 @@ public class ProductSearchTest {
 
     @Test
     public void getByHomeTitle() {
-        double lat = 108.31d;
-        double lon = 22.81d;
+        double lat = 22.81d;
+        double lon = 108.31d;
 
         //Location  10KM
         GeoDistanceQueryBuilder geoDistanceBuilder = QueryBuilders.geoDistanceQuery("location")
